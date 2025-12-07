@@ -1,0 +1,8 @@
+{
+  "name": "VibeSnap",
+  "description": "A next-gen social media platform for sharing moments, stories, and vibes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
